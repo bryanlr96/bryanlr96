@@ -39,8 +39,10 @@ Desarrollador **Front End** apasionado y creativo, con experiencia en la creaci�
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=bryanlr96&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanlr96&layout=compact&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" />
+</div>
 
 ---
 
