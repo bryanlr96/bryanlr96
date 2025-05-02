@@ -13,6 +13,8 @@ Desarrollador **Front End** apasionado y creativo, con experiencia en la creaci√
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3C6DF0?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiI+PHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBmaWxsPSIjM2M2ZGYwIiByeD0iMiIvPjwvc3ZnPg==)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
