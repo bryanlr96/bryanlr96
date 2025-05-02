@@ -19,7 +19,6 @@ Desarrollador **Front End** apasionado y creativo, con experiencia en la creaci�
 
 ---
 
-## 🚀 Proyectos Destacados
 
 ## 🚀 Proyectos Destacados
 
