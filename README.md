@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy Bryan
 
-## 👋 ¡Hola! Soy Bryan
-
 Desarrollador **Front End** apasionado y creativo, con experiencia en la creación de interfaces web responsivas e interactivas. Me considero una persona  proactiva y con una gran capacidad para aprender y adaptarme a nuevas tecnologías. Disfruto de los desafíos y siempre busco mejorar la experiencia del usuario.
 
 Me gusta trabajar en equipo y mantenerme actualizado con las últimas tendencias del desarrollo web. Mi enfoque está en crear aplicaciones intuitivas y con un diseño atractivo, que además sean funcionales y escalables.
