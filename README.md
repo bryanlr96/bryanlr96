@@ -41,7 +41,7 @@ Me gusta trabajar en equipo y mantenerme actualizado con las últimas tendencias
   Aplicación para controlar un presupuesto mensual. Permite definir un límite, registrar gastos sin excederlo, visualizar el progreso mediante una barra dinámica, filtrar por categoría, y editar o eliminar gastos deslizando horizontalmente.
 
   **Tecnologías utilizadas:**  
-  ![React](h
+   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 
 
 ---
