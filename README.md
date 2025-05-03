@@ -29,22 +29,14 @@ Me gusta trabajar en equipo y mantenerme actualizado con las últimas tendencias
   Aplicación de mensajería instantánea con autenticación, gestión de contactos y comunicación en tiempo real mediante WebSockets.
 
   **Tecnologías utilizadas:**  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-  ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-  ![Zod](https://img.shields.io/badge/-Zod-3C6DF0?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiI+PHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBmaWxsPSIjM2M2ZGYwIiByeD0iMiIvPjwvc3ZnPg==)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Zod](https://img.shields.io/badge/-Zod-3C6DF0?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiI+PHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBmaWxsPSIjM2M2ZGYwIiByeD0iMiIvPjwvc3ZnPg==)
 
 - 🌐 [Portfolio Personal](https://github.com/bryanlr96/portfolio)  
   Portfolio personal desarrollado con **React**, **Tailwind**, **TypeScript** y **Sanity**, que presenta secciones dinámicas como *Sobre mí*, *Galería de Proyectos* y *Contacto*, con contenido totalmente personalizable desde **Sanity**.
 
   **Tecnologías utilizadas:**  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
-  ![Sanity](https://img.shields.io/badge/-Sanity-FF4F00?logo=sanity&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![Sanity](https://img.shields.io/badge/-Sanity-FF4F00?logo=sanity&logoColor=white)
+
 
 
 ---
