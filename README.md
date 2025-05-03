@@ -37,6 +37,15 @@ Me gusta trabajar en equipo y mantenerme actualizado con las últimas tendencias
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
   ![Zod](https://img.shields.io/badge/-Zod-3C6DF0?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiI+PHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBmaWxsPSIjM2M2ZGYwIiByeD0iMiIvPjwvc3ZnPg==)
 
+- 🌐 [Portfolio Personal](https://github.com/bryanlr96/portfolio)  
+  Portfolio personal desarrollado con **React**, **Tailwind**, **TypeScript** y **Sanity**, que presenta secciones dinámicas como *Sobre mí*, *Galería de Proyectos* y *Contacto*, con contenido totalmente personalizable desde **Sanity**.
+
+  **Tecnologías utilizadas:**  
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
+  ![Sanity](https://img.shields.io/badge/-Sanity-FF4F00?logo=sanity&logoColor=white)
+
 
 ---
 
